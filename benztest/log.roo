@@ -14,3 +14,8 @@ exit
 entity jpa --class ~.domain.Xxx
 exit
 // Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2016-12-12 22:11:21
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2016-12-12 22:17:11
+// [failed] entity jpa --class ~.domain.Xxx
+entity jpa --class ~.domain.Xxx2
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2016-12-12 22:17:36
